@@ -1,10 +1,10 @@
 {
-  "title":"DERI AirDrop Event",
-  "wallet-balance":"Wallet Balance",
-  "start-time":"Start Time",
-  "expire-time":"Expire Time",
-  "no-deri-to-claim" : "No DERI to claim",
-  "claim-failed" : "Claim failed",
-  "please-switch-to-BSC-to-claim-deri" : "Please switch to BSC to claim DERI",
-  "claim":"CLAIM"
+  "title":"Cобытие Deri аирдроп",
+  "wallet-balance":"Баланс кошелька",
+  "start-time":"Время начала  ",
+  "expire-time":"Время истечения",
+  "no-deri-to-claim" : "Нет DERI для получения ",
+  "claim-failed" : "Ошибка получения",
+  "please-switch-to-BSC-to-claim-deri" : "Пожалуйста переключитесь на BSC чтобы заявить Deri",
+  "claim":"Получено"
 }
