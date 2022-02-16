@@ -1,8 +1,8 @@
 {
-  "app" : "App",
-  "docs" : "Docs",
-  "team" : "Team",
-  "faq" : "FAQ",
-  "visit-us-on" :"Visit us on",
-  "deri-protocol" : "Deri Protocol"
+  "app" : "Приложение",
+  "docs" : "Документы",
+  "team" : "Комнада",
+  "faq" : "Вопрос-ответ",
+  "visit-us-on" :"Посетите на нас",
+  "deri-protocol" : "Дери протокол"
 }
